@@ -9,7 +9,7 @@ namespace QUIZ09092019{
         }
         public void volume_kubus(int sisi)  
         { 
-            Console.WriteLine("Jadi Volume Balok adalah " + sisi*sisi*sisi);
+            Console.WriteLine("Jadi Volume Kubus adalah " + sisi*sisi*sisi);
             
         }
     }
